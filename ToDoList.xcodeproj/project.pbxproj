@@ -31,6 +31,7 @@
 		CFC04F6B2AA237260093CD5C /* RegisterViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC04F6A2AA237260093CD5C /* RegisterViewViewModel.swift */; };
 		CFC04F6D2AA237320093CD5C /* ToDoListItemViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC04F6C2AA237320093CD5C /* ToDoListItemViewViewModel.swift */; };
 		CFC04F6F2AA2AD050093CD5C /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC04F6E2AA2AD050093CD5C /* HeaderView.swift */; };
+		CFD9CB582AB5DC23007F6C86 /* .gitignore.rtf in Resources */ = {isa = PBXBuildFile; fileRef = CFD9CB572AB5DC23007F6C86 /* .gitignore.rtf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		CFC04F6A2AA237260093CD5C /* RegisterViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModel.swift; sourceTree = "<group>"; };
 		CFC04F6C2AA237320093CD5C /* ToDoListItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemViewViewModel.swift; sourceTree = "<group>"; };
 		CFC04F6E2AA2AD050093CD5C /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		CFD9CB572AB5DC23007F6C86 /* .gitignore.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = .gitignore.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 				CF7BEB082AA22DD900C6F806 /* ViewModels */,
 				CF7BEB072AA22DD000C6F806 /* Views */,
 				CF7BEAF52AA2268500C6F806 /* Preview Content */,
+				CFD9CB572AB5DC23007F6C86 /* .gitignore.rtf */,
 			);
 			path = ToDoList;
 			sourceTree = "<group>";
@@ -224,6 +227,7 @@
 			files = (
 				CF7BEAF72AA2268500C6F806 /* Preview Assets.xcassets in Resources */,
 				CF7BEAF42AA2268500C6F806 /* Assets.xcassets in Resources */,
+				CFD9CB582AB5DC23007F6C86 /* .gitignore.rtf in Resources */,
 				CF7BEB052AA22C8600C6F806 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
